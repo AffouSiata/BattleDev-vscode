@@ -18,6 +18,15 @@ function LocalPrintArray(chaine) {
 // -- Développez votre code dans la fonction ContestResponse ci-après
 function ContestResponse() {
   // Implémentez votre code ci-dessous
+
+ 	let nbc = input[1];
+ 	let nmc = input[2];
+
+
+ 	for (var i = 3; nc.length + 3; i++) {
+
+ 		let n
+ 	}
 }
 // -- Fin de votre code
 
